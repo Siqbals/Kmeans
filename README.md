@@ -11,9 +11,6 @@ The project includes:
 
 ---
 
-
----
-
 ## 📊 Features
 
 - Custom implementation of KMeans clustering.
